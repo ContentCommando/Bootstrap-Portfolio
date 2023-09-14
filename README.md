@@ -4,6 +4,8 @@ I have used components from Bootstrap for an easier design process. The framewor
 complemented with a good deal of custom styling using CSS. Javascript CDN was also included 
 in my HTML structure to essentially allow for optimised functionality of the application.
 
+Click this [link](https://contentcommando.github.io/Bootstrap-Portfolio/) to view the application. 
+
 ## Mock-up
 ![Alt text](screencapture-127-0-0-1-5501-index-html-2023-09-14-01_25_44.png)
 
