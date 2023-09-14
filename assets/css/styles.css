@@ -94,16 +94,23 @@
     /* background-color: rgb(6, 100, 100); */
     color: white;
     padding: 70px 0;
-    height: 550px;
+    height: 100%;
     background-image: url(../images/8764038.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 250px ;
 }
 
 .skill-section h2 {
     margin-top: 10px;
 }
 
+.skill-row {
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
 .skill-section p {
     width: 75%;
     margin: 25px auto;
@@ -119,8 +126,9 @@
 }
 
 .text-list {
-    text-align: center;
+    /* text-align: center; */
     margin-top: 50px;
+    align-content: center;
 }
 
 .about-container {
