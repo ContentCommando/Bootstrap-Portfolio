@@ -4,6 +4,9 @@ I have used components from Bootstrap for an easier design process. The framewor
 complemented with a good deal of custom styling using CSS. Javascript CDN was also included 
 in my HTML structure to essentially allow for optimised functionality of the application.
 
+## Mock-up
+![Alt text](screencapture-127-0-0-1-5501-index-html-2023-09-14-01_25_44.png)
+
 ## Design Process
 1. **Folder Structure:** I began the design process by creating the folder structure of the project. I cloned the repository with its read.me file, collated all the images required into an assets subfolder and created the relevant files for HTML structure and custom CSS styling.
 
